@@ -24,6 +24,6 @@ for (let i = 0; i < arr.length; i++) {
     }
    
 }
-console.log(`Четные числа;${even}`);
-console.log(`Нечетные числа;${odd}`);
+console.log(`Четные числа;${even} и Нечетные числа;${odd}`);
+
            
